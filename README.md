@@ -26,7 +26,7 @@ Option 3: 그 심리학자는 파티에서 바나나였다. (unrelated) <br /><b
 
 ## Data Construction Procedure
 We translate 'context' and 'sentence' using [Naver Papago Translator](https://www.ncloud.com/product/aiService/papagoTranslation). <br />
-We then post-process the results of translation by 1) correcting mis-translated sentences, 2) unifying the tone of 'context' and 'sentence'. <br />
+We then post-process the results of translation by 1) correcting mis-translated sentences, 2) preserving intends of StereoSet, and 3) unifying the tone of 'context' and 'sentence'. <br />
 
 ## People
 K-StereoSet is processed by Jongyoon Song, Nohil Park, Sangwon Yu, Chehyun Lee, Byunggook Na, Jangho Lee, Siwon Kim, Dongjin Lee, and Jiheum Yeom
