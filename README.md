@@ -1,6 +1,6 @@
 # K-StereoSet
 
-Stereotypical bias probing dataset for Korean language models which is translated and post-processed [StereoSet](https://github.com/moinnadeem/StereoSet).
+Stereotypical bias probing dataset for Korean language models which is translated version of [StereoSet](https://github.com/moinnadeem/StereoSet).
 
 ## Data Description
 1. **Intersentence**: In each sample, one context sentence and three next sentence options are given. <br /> 
