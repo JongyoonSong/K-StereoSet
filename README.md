@@ -19,9 +19,9 @@ Option 2: 그 심리학자는 파티에서 자선적이었다. (anti-stereotype)
 Option 3: 그 심리학자는 파티에서 바나나였다. (unrelated) <br /><br />
 
 ## Statistics 
-|   | # of Samples | Avg. Lengths |
+|   | # of Samples | # of Words per Sentence |
 | ------------- | :-------------: | :-------------: |
-| Intersentence  | 2,123  | Content Cell  |
-| Intrasentence  | 2,106  | Content Cell  |
+| Intersentence  | 2,123  | 6.3 |
+| Intrasentence  | 2,106  | 6.3  |
 
 ## Construction Process
