@@ -23,5 +23,3 @@ Option 3: 그 심리학자는 파티에서 바나나였다. (unrelated) <br /><b
 | ------------- | :-------------: | :-------------: |
 | Intersentence  | 2,123  | 6.3 |
 | Intrasentence  | 2,106  | 6.3  |
-
-## Construction Process
