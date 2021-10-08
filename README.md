@@ -1,6 +1,6 @@
 # K-StereoSet
 
-Stereotypical bias probing dataset for Korean language models which is translated and post-processed StereoSet (https://github.com/moinnadeem/StereoSet).
+Stereotypical bias probing dataset for Korean language models which is translated and post-processed [StereoSet](https://github.com/moinnadeem/StereoSet).
 
 ## Data Description
 1. **Intersentence**: In each sample, one context sentence and three options of next sentence are given. <br /> 
@@ -25,7 +25,7 @@ Option 3: 그 심리학자는 파티에서 바나나였다. (unrelated) <br /><b
 | Intrasentence  | 2,106  | 6.3  |
 
 ## Data Construction Procedure
-We translate 'context' and 'sentence' using Naver Papago Translator (https://www.ncloud.com/product/aiService/papagoTranslation). <br />
+We translate 'context' and 'sentence' using [Naver Papago Translator](https://www.ncloud.com/product/aiService/papagoTranslation). <br />
 We then post-process the results of translation by 1) correcting mis-translated sentences, 2) unifying the tone of 'context' and 'sentence'. <br />
 
 ## People
