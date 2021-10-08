@@ -29,7 +29,7 @@ We translate contents in 'context' and 'sentence' using [Naver Papago Translator
 We then post-process the results of translation by 1) correcting mis-translated sentences, 2) preserving intends of StereoSet, and 3) unifying the tone and context of 'context' and 'sentence'. <br />
 
 ## People
-K-StereoSet is processed by Jongyoon Song, Nohil Park, Sangwon Yu, Chehyun Lee, Byunggook Na, Jangho Lee, Siwon Kim, Dongjin Lee, and Jiheum Yeom
+K-StereoSet is processed by Jongyoon Song, Nohil Park, Sangwon Yu, Chehyun Lee, Byunggook Na, Jangho Lee, Siwon Kim, Dongjin Lee, Jiheum Yeom, and Sungroh Yoon.
 
 ## Contact
 If you have any question, send e-mail to coms1580@snu.ac.kr.
