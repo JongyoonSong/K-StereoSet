@@ -26,10 +26,10 @@ Option 3: 그 심리학자는 파티에서 바나나였다. (unrelated) <br /><b
 
 ## Data Construction Procedure
 We translate contents in 'context' and 'sentence' using [Naver Papago Translator](https://www.ncloud.com/product/aiService/papagoTranslation). <br />
-We then post-process the results of translation by 1) correcting mis-translated sentences, 2) preserving intends of StereoSet, and 3) unifying the tone and context of 'context' and 'sentence'. <br />
+We then post-process the results of translation by 1) correcting mis-translated sentences, 2) preserving intends of [StereoSet](https://github.com/moinnadeem/StereoSet), and 3) unifying the tone and context of 'context' and 'sentence'. <br />
 
 ## Milestone
-- [X] Convert development set of StereoSet
+- [X] Convert development set of [StereoSet](https://github.com/moinnadeem/StereoSet) (v0.1)
 - [ ] Scale-up dataset 
 - [ ] Fit to Korea-specific social bias
 
